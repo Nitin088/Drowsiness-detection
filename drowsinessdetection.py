@@ -61,11 +61,11 @@ while True:
 
 		#if EAR falls below the threshold value display message in video
         if final_EAR<threshold_EAR:
-        	cv2.putText(frame,"DROWSY",(20,100),
+        	cv2.putText(frame,"drowsy",(20,100),
         		cv2.FONT_HERSHEY_SIMPLEX,3,(0,0,255),4)
-        	cv2.putText(frame,"Are you Sleepy?",(20,400),
+        	cv2.putText(frame,"sleepy?????",(20,400),
         		cv2.FONT_HERSHEY_SIMPLEX,2,(0,0,255),4)
-        	print("Drowsy")
+        	print("drowsiness detected!!!!!")
         print(final_EAR)
 
     cv2.imshow("Are you Sleepy", frame)
