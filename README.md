@@ -18,6 +18,7 @@ This formula is used to calculate the person's eye aspect ratio, which determine
 
 ### Results
 
+The program is able to detect if the person's eyes are closed if the person is properly light
 ![Result 1](https://raw.githubusercontent.com/user/repository/main/assets/result1.png)
 ![Result 2](https://raw.githubusercontent.com/user/repository/main/assets/result2.png)
 
