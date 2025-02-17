@@ -1,6 +1,12 @@
 # Drowsiness Detection System
 
-This project offers a real-time solution for identifying signs of drowsiness in people. By utilizing non-invasive methods such as eye aspect ratio calculated using facial landmarks, the system can accurately assess the driver’s condition without the need for specialized sensors or intrusive devices with the help of a camera facing the person.
+This project offers a **real-time solution** for identifying signs of drowsiness in people, particularly drivers. By utilizing non-invasive methods like the **eye aspect ratio (EAR)** calculated using facial landmarks, the system can accurately assess a person's condition without the need for specialized sensors or intrusive devices. The only requirement is a camera facing the person.
+
+### Overview
+The Drowsiness Detection System is a machine learning-based project that uses computer vision techniques to analyze eye activity. By calculating the **Eye Aspect Ratio (EAR)** using facial landmarks, the system can detect when a person is drowsy based on the closing of their eyes.
+
+The goal of this project is to create a solution that can be implemented in real-time, such as in vehicles, to detect drowsiness in drivers and alert them before it leads to accidents.
+
 
 ### Face Landmarks
 
