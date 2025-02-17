@@ -15,6 +15,8 @@ The goal of this project is to create a solution that can be implemented in real
 
 Face landmarks is a computer vision task that involves detecting specific points (also known as landmarks) on a face. For example, the eyes, nose, mouth, and chin. The objective is to accurately locate these landmarks in images or videos of faces in real-time and use them for various applications, such as face recognition, facial expression analysis, and drowsiness detection.
 
+In this project, I use **dlib's facial landmark detector** to detect 68 facial landmarks, which allows us to calculate the **Eye Aspect Ratio (EAR)** and assess the drowsiness level of the person.
+
 ### EAR Formula
 
 ![image](https://github.com/user-attachments/assets/b4ab0de0-d2a1-440c-86d2-830be47e4380)
