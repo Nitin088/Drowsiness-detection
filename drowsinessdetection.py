@@ -14,7 +14,7 @@ def EAR_value_single(eye):
 #initiliaze the hog face detector and the video cpature
 cap = cv2.VideoCapture(0)
 hog_face_detector = dlib.get_frontal_face_detector()
-dlib_facelandmark = dlib.shape_predictor(r"D:\Nitin\pythonProject\face_landmarks.dat")
+dlib_facelandmark = dlib.shape_predictor("face_landmarks.dat")
 #threshold ear value , if ear is lesser than threshold then eyes are closed
 threshold_EAR=0.26
 #default number of frames
