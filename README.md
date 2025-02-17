@@ -10,7 +10,8 @@ Face landmarks is a computer vision task that involves detecting specific points
 
 ### EAR Formula
 
-![EAR Formula](https://raw.githubusercontent.com/user/repository/main/assets/ear_formula.png)
+![image](https://github.com/user-attachments/assets/b4ab0de0-d2a1-440c-86d2-830be47e4380)
+
 
 This formula is used to calculate the person's eye aspect ratio, which determines if the eyes are closed or open. If the eyes stay closed for a long time, we can say that the person is sleeping.
 
