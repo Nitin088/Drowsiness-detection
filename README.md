@@ -4,7 +4,8 @@ This project offers a real-time solution for identifying signs of drowsiness in 
 
 ### Face Landmarks
 
-![Face Landmarks](https://raw.githubusercontent.com/user/repository/main/assets/face_landmarks.png)
+![image](https://github.com/user-attachments/assets/f00ebb15-c8dd-4916-ad59-a1c3988fa97f)
+
 
 Face landmarks is a computer vision task that involves detecting specific points (also known as landmarks) on a face. For example, the eyes, nose, mouth, and chin. The objective is to accurately locate these landmarks in images or videos of faces in real-time and use them for various applications, such as face recognition, facial expression analysis, and drowsiness detection.
 
